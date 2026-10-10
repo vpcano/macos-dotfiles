@@ -1,0 +1,9 @@
+[submodule ".config/kitty"]
+	path = .config/kitty
+	url = https://github.com/vpcano/kitty-dotfiles
+[submodule ".config/tmux"]
+	path = .config/tmux
+	url = https://github.com/vpcano/tmux-dotfiles
+[submodule ".pi/agent"]
+	path = .pi/agent
+	url = https://github.com/vpcano/pi-dotfiles
