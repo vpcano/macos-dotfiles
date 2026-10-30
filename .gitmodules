@@ -7,3 +7,6 @@
 [submodule ".pi/agent"]
 	path = .pi/agent
 	url = https://github.com/vpcano/pi-dotfiles
+[submodule ".config/nvim"]
+	path = .config/nvim
+	url = https://github.com/vpcano/nvim-dotfiles
